@@ -11,4 +11,4 @@ sources:
       - name: studentInfo
       - name: studentRegistration
       - name: studentVle
-      - name: vlse
+      - name: vle
