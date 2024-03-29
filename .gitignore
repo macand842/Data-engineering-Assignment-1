@@ -1,6 +1,5 @@
 venv
 .venv
 logs
-data
-output
-dbt_packages
+
+dbt_packages  

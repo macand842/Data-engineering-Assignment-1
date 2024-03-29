@@ -1,8 +1,14 @@
 Welcome to your new dbt project!
 
+
 ### Using the starter project
 
+add the data in the data folder
+the star scheme will be in output
+
 Try running the following commands:
+- dbt init
+- dbt deps
 - dbt run
 - dbt test
 
